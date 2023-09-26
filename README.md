@@ -5,4 +5,4 @@ Server side codes will run at target system.
 Client side codes will run our system.
 You must change ip adress for both of systems. 
 
-Only Educational purpose.
+Only for Educational purpose.
