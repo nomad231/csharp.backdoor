@@ -1,0 +1,14 @@
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\bin\Release\net7.0\sunucu_final.exe
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\bin\Release\net7.0\sunucu_final.deps.json
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\bin\Release\net7.0\sunucu_final.runtimeconfig.json
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\bin\Release\net7.0\sunucu_final.dll
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\bin\Release\net7.0\sunucu_final.pdb
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\obj\Release\net7.0\sunucu_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\obj\Release\net7.0\sunucu_final.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\obj\Release\net7.0\sunucu_final.AssemblyInfo.cs
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\obj\Release\net7.0\sunucu_final.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\obj\Release\net7.0\sunucu_final.dll
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\obj\Release\net7.0\refint\sunucu_final.dll
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\obj\Release\net7.0\sunucu_final.pdb
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\obj\Release\net7.0\sunucu_final.genruntimeconfig.cache
+C:\Users\muham\Desktop\csharp\sunucu_final\sunucu_final\obj\Release\net7.0\ref\sunucu_final.dll

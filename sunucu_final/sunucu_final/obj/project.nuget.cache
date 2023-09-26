@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RvSKa9LDDS/8bQ7O/vxb1zwIWSwYFk6oV8ec7RhKjkDwmP4774iQ+vF+LiQlpF7INGkeeTCGfLMxW3pGtS8GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muham\\Desktop\\csharp\\sunucu_final\\sunucu_final\\sunucu_final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
